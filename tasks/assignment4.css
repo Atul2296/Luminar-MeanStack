@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+.carousel-caption {
+    height: 30%;
+    width: 50%;
+    text-align: left;
+    margin-bottom: 16%;
+    margin-left: 5%;
+
+}
+
+.carousel-inner {
+    height: 40%;
+    background-color: black;
+
+
+}
+
+.carousel-inner img {
+    height: fit-content;
+    object-fit: cover;
+    opacity: 50%;
+}
+
+.carousel-caption p {
+    font-weight: 500;
+    font-size: 15px;
+    margin-right: 25%;
+}
+
+.carousel-caption h1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.first {
+    display: flex;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.first img {
+    padding-left: 5%;
+}
+
+.first p {
+    font-size: 15px;
+    font-family: 'Mulish', sans-serif;
+    line-height: 28px;
+    padding: 2%;
+}
+
+.btn {
+    background-color: #5e068a;
+}
+
+.btn-outline-primary {
+    color: #5e068a;
+    background-color: white;
+}

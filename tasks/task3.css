@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+.parent{
+    width: 100%;
+    height: 550px;
+}
+.parent img{
+    width: fit-content;
+    height: fit-content;
+}
+
+.main{
+    border: 1px solid black;
+    width: 30%;
+    height: 50% ;
+    float: left;
+}
+
+.row{
+    border: 0px solid white;
+    width: 300px;
+    height: 300px;
+    float: left; 
+    text-align: center;
+    background-color: burlywood;
+    font-style: oblique;  
+    font-weight: bold; 
+}
+.pi{
+    background-color: rgb(226, 119, 31);
+}
+.mucize{
+    background-color: rgb(3, 131, 3);
+}
+
+h1{
+    color: rgb(248, 248, 248);
+    font-style: normal;
+    font-family: 'Sigmar One', cursive;
+}
