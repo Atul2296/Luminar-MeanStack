@@ -1,0 +1,4 @@
+git remote -v view files
+git add -A  adds all files
+git commit -m"message" commits files
+git push Luminar maste  pushes to github
